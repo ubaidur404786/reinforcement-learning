@@ -367,10 +367,7 @@ cleaning-robot-rl/
 
 1. **Clone the repository:**
 
-   ```bash
-   git clone https://github.com/<your-username>/cleaning-robot-rl.git
-   cd cleaning-robot-rl
-   ```
+
 
 2. **Install dependencies:**
 
